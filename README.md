@@ -26,7 +26,7 @@ The Chaos Game implementation in this repository includes several features for c
 
 ## Demo
 
-Check out this [YouTube video]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/uQfIsiZiLZ0)) for a demonstration of the Chaos Game algorithm in action.
+Check out this [YouTube video](https://youtu.be/uQfIsiZiLZ0) for a demonstration of the Chaos Game algorithm in action.
 
 ## Getting Started
 
@@ -48,3 +48,4 @@ Contributions to improve and expand the Chaos Game implementation are welcome! F
 - Inspiration: The Chaos Game algorithm was inspired by the work of mathematicians and computer scientists exploring fractal geometry.
 
 Happy fractal exploring! 🌀
+
